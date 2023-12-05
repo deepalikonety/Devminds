@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hello{
+    display:flex;
+}
+.footer{
+    /* className="mt-8 py-4 bg-gray-800 text-white text-center" */
+    background:gray;
+    text-color:white;
+    text-align:center;
+}
